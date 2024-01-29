@@ -26,7 +26,7 @@ const Schedule = () => {
     AOS.refresh();
   }, []);
 
-  let piketGroup = [];
+ let piketGroup = [];
 
   // Menentukan kelompok piket berdasarkan minggu saat ini
   if (currentWeek === 2 || currentWeek === 4) {
