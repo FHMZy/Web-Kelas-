@@ -11,19 +11,13 @@ import {getAuth, GoogleAuthProvider} from 'firebase/auth'
 // Your web app's Firebase configuration
 const firebaseConfig = {
   /* utama */
-  apiKey: "AIzaSyBmUIXJblRGF4HTCO3hOB8MykvLOq7whUE",
-  authDomain: "project-web-kelas.firebaseapp.com",
-  projectId: "project-web-kelas",
-  storageBucket: "project-web-kelas.appspot.com",
-  messagingSenderId: "202691312352",
-  appId: "1:202691312352:web:e82e7a494e705b2a12ee85"
-/* sec */
-/* apiKey: "AIzaSyCiId2YJAxd3PIXqAXNjx6hfZYycpQlzl0",
-  authDomain: "web-kelas-1.firebaseapp.com",
-  projectId: "web-kelas-1",
-  storageBucket: "web-kelas-1.appspot.com",
-  messagingSenderId: "797263276694",
-  appId: "1:797263276694:web:7bc8be9e05f2f87adfb0b7" */
+  apiKey: "AIzaSyDn9aw8Oe8d06okX7No-3lWWNMTDwPFSUY",
+  authDomain: "kelas-f3975.firebaseapp.com",
+  projectId: "kelas-f3975",
+  storageBucket: "kelas-f3975.appspot.com",
+  messagingSenderId: "1076562587436",
+  appId: "1:1076562587436:web:73b395e075b1e5a47fc689",
+  measurementId: "G-3Q9V28VDD3"
 };
 
 // Initialize Firebase
