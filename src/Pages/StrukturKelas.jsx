@@ -192,22 +192,7 @@ const StrukturKelas = () => {
 					<img src="Circle.svg" alt="" />
 					<img src="Circle.svg" alt="" className="hidden lg:flex" />
 				</div>
-
 				
-
-				{/* Kesehatan */}
-				<div
-					className=" absolute bottom-[14.5%] lg:hidden"
-					data-aos="fade-up"
-					data-aos-duration="1200">
-					<div className="flex justify-center items-center flex-col">
-						<img src="LineVertikal3.svg" alt="" className="lg:hidden" />
-						<img src="Circle.svg" alt="" className="relative top-[-0.7rem]" />
-						<div className="relative bottom-3">
-							<BorderStruktur Jabatan="Kesehatan" Nama="Eki" Width="120px" />
-							<div className="py-[3%]"></div>
-							<BorderStruktur Jabatan="" Nama="Hendri" Width="120px" />
-						</div>
 					</div>
 				</div>
 			</div>
