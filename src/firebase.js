@@ -10,7 +10,6 @@ import {getAuth, GoogleAuthProvider} from 'firebase/auth'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  /* utama */
   apiKey: "AIzaSyDn9aw8Oe8d06okX7No-3lWWNMTDwPFSUY",
   authDomain: "kelas-f3975.firebaseapp.com",
   projectId: "kelas-f3975",
