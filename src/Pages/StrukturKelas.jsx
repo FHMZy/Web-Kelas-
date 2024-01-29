@@ -192,9 +192,10 @@ const StrukturKelas = () => {
 					<img src="Circle.svg" alt="" />
 					<img src="Circle.svg" alt="" className="hidden lg:flex" />
 				</div>
+
 				
-					</div>
-				</div>
+
+				
 			</div>
 		</div>
 	)
